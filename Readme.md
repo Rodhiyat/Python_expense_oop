@@ -51,10 +51,10 @@ For the Expense Database class:
 ## **How to Clone the Repository**
 
 To clone this project:
-- Copy the repository url
-- Open git bash and navigate to the directory you want to use using cd <folder path>.
-- Run ```git init``` command. 
-- Once git is initialized then you can run the git clone command and add the repository url you copied - ```git clone https://github.com/Rodhiyat/python_OOP.git```
+- Copy this repository url from the "Code" button in this repository
+- Open git bash and Change the current working directory to the location where you want the cloned directory using cd command - ```cd <folder path>```
+- Use the git clone command followed by the repository URL you copied earlier. Paste the URL after 'git clone'. For this repository; ```git clone https://github.com/Rodhiyat/Python_expense_oop.git```
+- Press Enter to create your local clone. 
 
 
 ## **How to Run the Code**
